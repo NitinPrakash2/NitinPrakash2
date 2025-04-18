@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Nitin Prakash!;Web+Developer+%F0%9F%92%BB;Future+MERN+Stack+Pro+%F0%9F%92%AA;Spooky+Night+Coder+%F0%9F%91%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Nitin+Prakash!;Web+Developer+%F0%9F%92%BB;Future+MERN+Stack+Pro+%F0%9F%92%AA;Spooky+Night+Coder+%F0%9F%91%BB" alt="Typing SVG" />
 </p>
 
 ---
